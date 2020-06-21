@@ -1,16 +1,16 @@
 @font-face {
-    font-family: "BYekan";
-    src: url("../fonts/BYekan-webfont.eot") format("eot"),
-        url("../fonts/BYekan-webfont.woff") format("woff"),
-        url("../fonts/BYekan-webfont.ttf") format("truetype");
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan-webfont.eot') format('eot'),
+        url('../fonts/BYekan-webfont.woff') format('woff'),
+        url('../fonts/BYekan-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     margin: 0;
-    font-family: "BYekan" !important;
-    background: url("../img/background.jpg") no-repeat center center fixed;
+    font-family: 'BYekan' !important;
+    background: url('../img/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
