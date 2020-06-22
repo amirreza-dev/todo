@@ -107,7 +107,7 @@
     }
 }
 
-.Toastify__close-button {
+/* .Toastify__close-button {
     color: #fff;
     font-weight: bold;
     font-size: 14px;
@@ -128,7 +128,7 @@
 .Toastify__close-button:hover,
 .Toastify__close-button:focus {
     opacity: 1;
-}
+} */
 
 @keyframes Toastify__trackProgress {
     0% {
