@@ -11,11 +11,19 @@
     .hidden-xs {
         display: none !important;
     }
+
+    .p-xs {
+        padding-left: 0px !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
     .hidden-sm {
         display: none !important;
+    }
+
+    .p-xs {
+        padding-left: 0px !important;
     }
 }
 
