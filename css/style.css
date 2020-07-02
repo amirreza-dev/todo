@@ -7,6 +7,10 @@
     font-style: normal;
 }
 
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+
 @media (max-width: 767px) {
     .hidden-xs {
         display: none !important;
