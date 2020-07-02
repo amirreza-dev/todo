@@ -134,6 +134,8 @@ body {
 }
 
 .cntr {
+    display: flex;
+    justify-content: center;
     margin: auto;
 }
 
@@ -192,6 +194,8 @@ body {
     stroke-dashoffset: 0;
 }
 .btn-radio span {
+    margin-left: 20px;
+    margin-right: 5px;
     display: inline-block;
     vertical-align: middle;
 }
