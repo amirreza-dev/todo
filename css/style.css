@@ -142,7 +142,7 @@ body {
 .btn-radio {
     cursor: pointer;
     display: inline-block;
-    float: left;
+    float: right;
     -webkit-user-select: none;
     user-select: none;
 }
