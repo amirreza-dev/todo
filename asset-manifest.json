@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/todo/static/js/main.d6e91b42.chunk.js",
-    "main.js.map": "/todo/static/js/main.d6e91b42.chunk.js.map",
+    "main.js": "/todo/static/js/main.82d891dd.chunk.js",
+    "main.js.map": "/todo/static/js/main.82d891dd.chunk.js.map",
     "runtime-main.js": "/todo/static/js/runtime-main.f7a45fe9.js",
     "runtime-main.js.map": "/todo/static/js/runtime-main.f7a45fe9.js.map",
     "static/js/2.b1c2c7ec.chunk.js": "/todo/static/js/2.b1c2c7ec.chunk.js",
     "static/js/2.b1c2c7ec.chunk.js.map": "/todo/static/js/2.b1c2c7ec.chunk.js.map",
     "index.html": "/todo/index.html",
-    "precache-manifest.8582b0d3d1c8b25b0f3e546646334872.js": "/todo/precache-manifest.8582b0d3d1c8b25b0f3e546646334872.js",
+    "precache-manifest.6b30498542cd409264029835c36ec466.js": "/todo/precache-manifest.6b30498542cd409264029835c36ec466.js",
     "service-worker.js": "/todo/service-worker.js",
     "static/js/2.b1c2c7ec.chunk.js.LICENSE.txt": "/todo/static/js/2.b1c2c7ec.chunk.js.LICENSE.txt",
     "static/media/getFetch.cjs": "/todo/static/media/getFetch.013f0b90.cjs"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.f7a45fe9.js",
     "static/js/2.b1c2c7ec.chunk.js",
-    "static/js/main.d6e91b42.chunk.js"
+    "static/js/main.82d891dd.chunk.js"
   ]
 }
