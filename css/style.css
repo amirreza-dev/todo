@@ -194,6 +194,7 @@ body {
     stroke-dashoffset: 0;
 }
 .btn-radio span {
+    font-family: 'Lato', sans-serif;
     margin-left: 20px;
     margin-right: 5px;
     display: inline-block;
